@@ -1,6 +1,10 @@
+# DataExtractor
+
 **DataExtractor** is a mod for Minecraft that allows you to extract data from installed mods into convenient files on the client side. The goal of the mod is to provide a universal tool for extracting data from various mods and exporting it for further analysis, storage, or use.
 
 Currently, the mod supports extracting data from popular mods like **CraftTweaker** and **BetterQuesting**, but future updates will expand its functionality to work with other mods.
+
+This mod is built for **ForgeAPI 1.7.10** and **will NEVER** be ported to other versions. If you need it for another version, you will have to port it yourself.
 
 ## Features
 
