@@ -20,6 +20,10 @@ This mod is built for **ForgeAPI 1.7.10** and **will NEVER** be ported to other 
 
 The mod can also be extended to work with other mods in the future, with additional features and data export formats.
 
+## Tested on projects
+- **LoliLand**
+- **SimpleMinecraft**
+
 ## License
 
 This mod is licensed under the [The Unlicense](LICENSE).
